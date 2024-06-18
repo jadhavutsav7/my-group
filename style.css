@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+  font-size: 3rem;
+}
+p{
+    color: white;
+}
+.group{
+    width: 65%;
+  margin-left: 15%;
+  margin-right: 20%;
+  margin-top: 100px;
+  text-align: center;
+}
+.groups{
+    border: 5px solid white;
+  width: 100%;
+}
+
+
